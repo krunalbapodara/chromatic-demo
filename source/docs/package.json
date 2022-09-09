@@ -19,6 +19,9 @@
   "dependencies": {},
   "scripts": {
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
-  }
+    "build-storybook": "build-storybook",
+    "chromatic": "npx chromatic --project-token=ef96bede8319"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "docs@1.0.0"
 }
